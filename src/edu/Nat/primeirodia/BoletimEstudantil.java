@@ -1,4 +1,4 @@
-package edu.Nat.segundasemana;
+package edu.Nat.primeirodia;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 4;

@@ -1,4 +1,4 @@
-package edu.Nat.primeirasemana;
+package edu.Nat.primeirodia;
 public class App {
     public static void main(String[] args) throws Exception {
         String primeiroNome = "Well";
